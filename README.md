@@ -1,2 +1,0 @@
-# PoMoDoDo
-Created with CodeSandbox
