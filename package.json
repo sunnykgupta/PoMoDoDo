@@ -5,11 +5,11 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "moment": "2.22.2",
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-scripts": "1.1.4",
-    "worker-timers": "",
-    "moment": ""
+    "worker-timers": ""
   },
   "devDependencies": {},
   "scripts": {
